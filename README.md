@@ -1,6 +1,6 @@
-# Домашнє завдання №1-Основи TypeScript
+# Домашнє завдання №1 — Основи TypeScript
 
-Проєкт **01-ts-basics** створений у форматі Vite + TypeScript. У папці `src` є вісім окремих файлів (`task-1.ts`-`task-8.ts`).
+Проєкт **01-ts-basics** створений у форматі Vite + TypeScript. У папці `src` є вісім окремих файлів (`task-1.ts` — `task-8.ts`).
 
 > **Важливо:** в наданому тексті домашнього завдання **не було стартового коду** з початковими значеннями змінних, масивів, об'єктів, функцій та викликів. Тому цей проєкт містить робочі приклади, які відповідають описаним вимогам типізації. Якщо викладач надавав початкові фрагменти окремо, їхні значення й логіку потрібно зберегти, додавши типи до вихідного коду.
 
@@ -13,7 +13,7 @@ npm install
 npm run dev
 ```
 
-У браузері відкрийте адресу, яку виведе Vite, та перегляньте консоль розробника (`F12`->`Console`).
+У браузері відкрийте адресу, яку виведе Vite, та перегляньте консоль розробника (`F12` → `Console`).
 
 ## Перевірка
 
@@ -31,14 +31,14 @@ npm run format
 
 ## Структура
 
-- `src/task-1.ts`-`string`, `number`, `boolean`.
-- `src/task-2.ts`-`interface Product`, `readonly`, `?`.
-- `src/task-3.ts`- масиви простих значень та об'єктів.
-- `src/task-4.ts`- параметри функції, опціональний `email`, `void`.
-- `src/task-5.ts`- union type для статусів.
-- `src/task-6.ts`- generics і явні параметри типу.
-- `src/task-7.ts`-`Promise<string>`.
-- `src/task-8.ts`-`axios.get<Post[]>` та `Promise<Post[]>`.
+- `src/task-1.ts` — `string`, `number`, `boolean`.
+- `src/task-2.ts` — `interface Product`, `readonly`, `?`.
+- `src/task-3.ts` — масиви простих значень та об'єктів.
+- `src/task-4.ts` — параметри функції, опціональний `email`, `void`.
+- `src/task-5.ts` — union type для статусів.
+- `src/task-6.ts` — generics і явні параметри типу.
+- `src/task-7.ts` — `Promise<string>`.
+- `src/task-8.ts` — `axios.get<Post[]>` та `Promise<Post[]>`.
 
 ## Здача
 
